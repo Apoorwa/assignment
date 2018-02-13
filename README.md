@@ -3,10 +3,10 @@ This repository has scripts to crawl a website recursivley to get all the hyperl
 
 
 Steps to run : 
-Clone the repo
-Get inside the repo
-npm install
-node <script name>
+1) Clone the repo
+2) Get inside the repo
+3) npm install
+4) node <script name>
 
 Scripts present : 
 1) crawler_with_promise
